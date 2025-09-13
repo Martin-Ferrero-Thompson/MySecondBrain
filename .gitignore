@@ -1,0 +1,6 @@
+# Ignore all Obsidian configuration by default
+.obsidian/
+
+# System files
+.trash/
+.DS_Store
